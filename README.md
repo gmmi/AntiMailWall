@@ -9,3 +9,10 @@ The repository contains all the documents I found behind Mailwalls and will be u
 ---
 
 My intention is not to avoid paying for access in a fiscal sense or to otherwise pirate copyrighted material. If you are the legitimate copyright holder and want me to remove one of your documents from this repository please contact me at [gmmi@gmmi.me](mailto:gmmi@gmmi.me).
+
+---
+
+# Index
+#### Marketing
+
+* [Comparing USM Anywhere to AlienVault OSSIM](https://github.com/gmmi/AntiMailWall/blob/main/Marketing/Comparing_USM_Anywhere_to_AlienVault_OSSIM.pdf)
